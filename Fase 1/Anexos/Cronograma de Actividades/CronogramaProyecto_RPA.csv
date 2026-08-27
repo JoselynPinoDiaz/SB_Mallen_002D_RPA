@@ -1,0 +1,36 @@
+Tipo de Incidencia,Clave,Resumen,Estado,Persona asignada
+riesgo,RPA2-16,R-GES-02,Mitigar,
+riesgo,RPA2-1,R-TEC-01,Mitigar,JOSELYN . PINO DIAZ
+riesgo,RPA2-3,R-TEC-03,Mitigar,JOSELYN . PINO DIAZ
+riesgo,RPA2-4,R-TEC-04,Mitigar,
+riesgo,RPA2-12,R-ORG-02,Mitigar,
+riesgo,RPA2-13,R-ORG-03,Mitigar,
+riesgo,RPA2-14,R-ORG-04,Mitigar,
+riesgo,RPA2-7,R-EXT-01,Mitigar,
+riesgo,RPA2-8,R-EXT-02,Mitigar,
+riesgo,RPA2-9,R-EXT-03,Mitigar,
+riesgo,RPA2-2,R-TEC-02,Evitar,JOSELYN . PINO DIAZ
+riesgo,RPA2-6,R-TEC-06,Evitar,JOSELYN . PINO DIAZ
+riesgo,RPA2-15,R-GES-01,Evitar,
+riesgo,RPA2-10,R-EXT-04,Resuelto,
+riesgo,RPA2-11,R-ORG-01,Nuevo,
+Epic,RPA2-17,Fase 1 Preparación del Entorno,En revisión,JOSELYN . PINO DIAZ
+Epic,RPA2-18,Fase 2 Diseño y Modelado RPA,En revisión,JOSELYN . PINO DIAZ
+Epic,RPA2-19,Fase 3 Pruebas y Control,En revisión,JOSELYN . PINO DIAZ
+Epic,RPA2-20,Fase 4 Cierre y Evaluación,En revisión,JOSELYN . PINO DIAZ
+Tarea,RPA2-21,A01-Definición y estandarización del flujo de solicitudes académicas de renuncia,Resuelto,JOSELYN . PINO DIAZ
+riesgo,RPA2-5,R-TEC-05,Aceptar,
+Tarea,RPA2-22,A02-Diagnóstico de conflictos de pre requisitos en el computador de prueba.,En revisión,JOSELYN . PINO DIAZ
+Tarea,RPA2-23,"A03-Instalación de requisitos previos (.NET Framework, parches de S.O. y Credential Manager)",En revisión,JOSELYN . PINO DIAZ
+Tarea,RPA2-24,A04-Instalación del software Blue Prism Enterprise y carga de licencias de desarrollo,En revisión,JOSELYN . PINO DIAZ
+Tarea,RPA2-25,A05-Presentación oficial del plan de trabajo y primer avance del entorno listo,En revisión,
+Tarea,RPA2-26,A06-Mapeo detallado de excepciones y lógicas de reintento en el SDD.,En revisión,
+Tarea,RPA2-27,A07-Configuración de selectores dinámicos para la interfaz HTML del portal CRM,En revisión,
+Tarea,RPA2-29,A08-Desarrollo del flujo de creación del proceso en el Object y Process Studio,En revisión,
+Tarea,RPA2-28,A09-Implementación de reglas de validación de calidad de datos y formatos anómalos,En revisión,
+Tarea,RPA2-30,A010-Cifrado de datos sensibles en base a normativas de protección,En revisión,
+Tarea,RPA2-31,AO11-Configuración del ambiente simulado de pruebas con datos controlados de QA,En revisión,
+Tarea,RPA2-32,A012-Ejecución de pruebas funcionales y validación del flujo con el usuario final,En revisión,
+Tarea,RPA2-33,A013-Elaboración de reportes de éxito para mitigar la resistencia al cambio institucional,En revisión,
+Tarea,RPA2-34,A014-Entrega final del proyecto automatizado y documentación técnica cruzada,En revisión,
+Tarea,RPA2-35,A015-Evaluación final académica de la solución y sustentación del proyecto RPA,En revisión,
