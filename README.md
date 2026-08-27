@@ -1,6 +1,10 @@
 Proyecto "Automatización de solicitudes académicas con Blue Prism"
+
+
 -> Seguimiento de Gestión ->
 https://duocjpriesgorpa.atlassian.net/jira/software/projects/RPA2/boards/2?filter=&groupBy=none
+
+
 Herramientas de Documentación:
 ->  https://duocjpriesgorpa.atlassian.net/wiki/spaces/R/folder/36044801
 Herramienta de Respaldo:
