@@ -1,9 +1,14 @@
-Proyecto "Automatización de solicitudes académicas con Blue Prism"
+CONTEXTO
+Nombre Proyecto "Automatización de solicitudes académicas con Blue Prism"
+Tecnología: BluePrism Enterprise 
+Integrantes: Joselyn Pino Diaz 20.002.397-8
+Metodologgía: DSDM
+Arquitectura
+Ejecución local
 
-
+ANEXOS
 -> Seguimiento de Gestión ->
 https://duocjpriesgorpa.atlassian.net/jira/software/projects/RPA2/boards/2?filter=&groupBy=none
-
 
 Herramientas de Documentación:
 ->  https://duocjpriesgorpa.atlassian.net/wiki/spaces/R/folder/36044801
