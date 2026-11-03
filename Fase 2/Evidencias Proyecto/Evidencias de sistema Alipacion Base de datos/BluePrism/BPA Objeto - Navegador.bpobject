@@ -1,0 +1,1959 @@
+﻿<process name="Navegador" version="1.0" bpversion="7.5.1.18099" cpeversion="10.0.136.0" narrative="Navegador" byrefcollection="true" processrunningmessage="" disableversioning="false" type="object" runmode="Exclusive" preferredid="c204015b-9789-42b4-94ec-f586ac5e681f">
+  <appdef>
+    <element name="Navegador">
+      <id>67a4b14d-6315-48ff-9a4c-584492c00226</id>
+      <element name="AplicacionesCRM">
+        <id>d264afa4-0a45-42c4-8300-75fff687fef2</id>
+        <element name="AplicacionesPublicadas">
+          <id>fc651a28-1b4e-4f1f-bb5d-f5e9aaea2d24</id>
+          <type>UIAButton</type>
+          <basetype>UIAButton</basetype>
+          <datatype>text</datatype>
+          <diagnose>False</diagnose>
+          <attributes>
+            <attribute name="uX" isUserVisible="True">
+              <ProcessValue datatype="number" value="93" />
+            </attribute>
+            <attribute name="uY" isUserVisible="True">
+              <ProcessValue datatype="number" value="272" />
+            </attribute>
+            <attribute name="uWidth" isUserVisible="True">
+              <ProcessValue datatype="number" value="1095" />
+            </attribute>
+            <attribute name="uHeight" isUserVisible="True">
+              <ProcessValue datatype="number" value="37" />
+            </attribute>
+            <attribute name="uClassName" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uAutomationId" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="app-section-header_1" />
+            </attribute>
+            <attribute name="uControlType" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="Button" />
+            </attribute>
+            <attribute name="uLocalizedControlType" isUserVisible="True">
+              <ProcessValue datatype="text" value="botón" />
+            </attribute>
+            <attribute name="uIsPassword" isUserVisible="True">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uIsRequiredForForm" isUserVisible="True">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uName" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="Aplicaciones publicadas (3)" />
+            </attribute>
+            <attribute name="uOrientation" isUserVisible="True">
+              <ProcessValue datatype="text" value="None" />
+            </attribute>
+            <attribute name="uItemStatus" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uItemType" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uOffscreen" isUserVisible="True">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uTopLevelWindowId" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uLabeledBy" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uEnabled" isUserVisible="True">
+              <ProcessValue datatype="text" value="True" />
+            </attribute>
+            <attribute name="uAcceleratorKey" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uAccessKey" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uHasKeyboardFocus" isUserVisible="True">
+              <ProcessValue datatype="text" value="False" />
+            </attribute>
+            <attribute name="uHelpText" isUserVisible="True">
+              <ProcessValue datatype="text" value="Aplicaciones que están publicadas y listas para usar. 3" />
+            </attribute>
+            <attribute name="uProcessId" isUserVisible="True">
+              <ProcessValue datatype="text" value="3560" />
+            </attribute>
+            <attribute name="puControlType" isUserVisible="True">
+              <ProcessValue datatype="text" value="Text" />
+            </attribute>
+            <attribute name="puLocalizedControlType" isUserVisible="True">
+              <ProcessValue datatype="text" value="título" />
+            </attribute>
+            <attribute name="puClassName" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="puName" isUserVisible="True">
+              <ProcessValue datatype="text" value="Aplicaciones publicadas (3)" />
+            </attribute>
+            <attribute name="puAutomationId" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="matchindex" isUserVisible="True">
+              <ProcessValue datatype="number" value="1" />
+            </attribute>
+          </attributes>
+        </element>
+        <element name="AplicacionGestionEstudiante">
+          <id>fccd1c41-946b-42e8-8251-35a601d66487</id>
+          <type>UIAHyperlink</type>
+          <basetype>UIAHyperlink</basetype>
+          <datatype>text</datatype>
+          <diagnose>False</diagnose>
+          <attributes>
+            <attribute name="uX" isUserVisible="True">
+              <ProcessValue datatype="number" value="323" />
+            </attribute>
+            <attribute name="uY" isUserVisible="True">
+              <ProcessValue datatype="number" value="309" />
+            </attribute>
+            <attribute name="uWidth" isUserVisible="True">
+              <ProcessValue datatype="number" value="218" />
+            </attribute>
+            <attribute name="uHeight" isUserVisible="True">
+              <ProcessValue datatype="number" value="239" />
+            </attribute>
+            <attribute name="uClassName" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uAutomationId" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="AppModuleTileSec_1_Item_2" />
+            </attribute>
+            <attribute name="uControlType" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="Hyperlink" />
+            </attribute>
+            <attribute name="uLocalizedControlType" isUserVisible="True">
+              <ProcessValue datatype="text" value="vínculo" />
+            </attribute>
+            <attribute name="uIsPassword" isUserVisible="True">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uIsRequiredForForm" isUserVisible="True">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uName" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="Gestión del estudiante UI Publicado por Editor predeterminado para dev-duocuc. Fecha de publicación 12-06-26. Interfaz unificada. 2 de 3" />
+            </attribute>
+            <attribute name="uOrientation" isUserVisible="True">
+              <ProcessValue datatype="text" value="None" />
+            </attribute>
+            <attribute name="uItemStatus" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uItemType" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uOffscreen" isUserVisible="True">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uTopLevelWindowId" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uLabeledBy" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uEnabled" isUserVisible="True">
+              <ProcessValue datatype="text" value="True" />
+            </attribute>
+            <attribute name="uAcceleratorKey" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uAccessKey" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uHasKeyboardFocus" isUserVisible="True">
+              <ProcessValue datatype="text" value="False" />
+            </attribute>
+            <attribute name="uHelpText" isUserVisible="True">
+              <ProcessValue datatype="text" value="Gestión del estudiante UI" />
+            </attribute>
+            <attribute name="uProcessId" isUserVisible="True">
+              <ProcessValue datatype="text" value="3560" />
+            </attribute>
+            <attribute name="puControlType" isUserVisible="True">
+              <ProcessValue datatype="text" value="ListItem" />
+            </attribute>
+            <attribute name="puLocalizedControlType" isUserVisible="True">
+              <ProcessValue datatype="text" value="elemento de lista" />
+            </attribute>
+            <attribute name="puClassName" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="puName" isUserVisible="True">
+              <ProcessValue datatype="text" value="Gestión del estudiante UI" />
+            </attribute>
+            <attribute name="puAutomationId" isUserVisible="True">
+              <ProcessValue datatype="text" value="AppTileContainerSec_1_LI_2" />
+            </attribute>
+            <attribute name="matchindex" isUserVisible="True">
+              <ProcessValue datatype="number" value="1" />
+            </attribute>
+          </attributes>
+        </element>
+        <element name="VentanaAplicaciones">
+          <id>42b7fb61-79c7-49fa-a399-f8200c925484</id>
+          <type>UIAEdit</type>
+          <basetype>UIAEdit</basetype>
+          <datatype>text</datatype>
+          <diagnose>False</diagnose>
+          <attributes>
+            <attribute name="uX" isUserVisible="True">
+              <ProcessValue datatype="number" value="77" />
+            </attribute>
+            <attribute name="uY" isUserVisible="True">
+              <ProcessValue datatype="number" value="159" />
+            </attribute>
+            <attribute name="uWidth" isUserVisible="True">
+              <ProcessValue datatype="number" value="91" />
+            </attribute>
+            <attribute name="uHeight" isUserVisible="True">
+              <ProcessValue datatype="number" value="27" />
+            </attribute>
+            <attribute name="uClassName" isUserVisible="True">
+              <ProcessValue datatype="text" value="pa-gz pa-wc pa-wd pa-pj pa-k pa-dx pa-dk " />
+            </attribute>
+            <attribute name="uAutomationId" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="defaultDialogChromeTitle-3" />
+            </attribute>
+            <attribute name="uControlType" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="Text" />
+            </attribute>
+            <attribute name="uLocalizedControlType" isUserVisible="True">
+              <ProcessValue datatype="text" value="título" />
+            </attribute>
+            <attribute name="uIsPassword" isUserVisible="True">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uIsRequiredForForm" isUserVisible="True">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uName" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="Aplicaciones" />
+            </attribute>
+            <attribute name="uOrientation" isUserVisible="True">
+              <ProcessValue datatype="text" value="None" />
+            </attribute>
+            <attribute name="uItemStatus" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uItemType" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uOffscreen" isUserVisible="True">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uTopLevelWindowId" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uLabeledBy" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uEnabled" isUserVisible="True">
+              <ProcessValue datatype="text" value="True" />
+            </attribute>
+            <attribute name="uAcceleratorKey" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uAccessKey" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uHasKeyboardFocus" isUserVisible="True">
+              <ProcessValue datatype="text" value="False" />
+            </attribute>
+            <attribute name="uHelpText" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uProcessId" isUserVisible="True">
+              <ProcessValue datatype="text" value="3560" />
+            </attribute>
+            <attribute name="puControlType" isUserVisible="True">
+              <ProcessValue datatype="text" value="Window" />
+            </attribute>
+            <attribute name="puLocalizedControlType" isUserVisible="True">
+              <ProcessValue datatype="text" value="diálogo" />
+            </attribute>
+            <attribute name="puClassName" isUserVisible="True">
+              <ProcessValue datatype="text" value="pa-o pa-mw pa-vs pa-l pa-vt pa-vu pa-h pa-bp pa-ca pa-fa pa-ow pa-bm flexbox" />
+            </attribute>
+            <attribute name="puName" isUserVisible="True">
+              <ProcessValue datatype="text" value="Aplicaciones" />
+            </attribute>
+            <attribute name="puAutomationId" isUserVisible="True">
+              <ProcessValue datatype="text" value="defaultDialogChromeView-3" />
+            </attribute>
+            <attribute name="matchindex" isUserVisible="True">
+              <ProcessValue datatype="number" value="1" />
+            </attribute>
+          </attributes>
+        </element>
+        <type>UIAWindow</type>
+        <basetype>UIAWindow</basetype>
+        <datatype>text</datatype>
+        <diagnose>False</diagnose>
+        <attributes>
+          <attribute name="uX" isUserVisible="True">
+            <ProcessValue datatype="number" value="67" />
+          </attribute>
+          <attribute name="uY" isUserVisible="True">
+            <ProcessValue datatype="number" value="145" />
+          </attribute>
+          <attribute name="uWidth" isUserVisible="True">
+            <ProcessValue datatype="number" value="1147" />
+          </attribute>
+          <attribute name="uHeight" isUserVisible="True">
+            <ProcessValue datatype="number" value="573" />
+          </attribute>
+          <attribute name="uClassName" isUserVisible="True">
+            <ProcessValue datatype="text" value="pa-o pa-mw pa-vs pa-l pa-vt pa-vu pa-h pa-bp pa-ca pa-fa pa-ow pa-bm flexbox" />
+          </attribute>
+          <attribute name="uAutomationId" inuse="True" isUserVisible="True">
+            <ProcessValue datatype="text" value="defaultDialogChromeView-3" />
+          </attribute>
+          <attribute name="uControlType" inuse="True" isUserVisible="True">
+            <ProcessValue datatype="text" value="Window" />
+          </attribute>
+          <attribute name="uLocalizedControlType" isUserVisible="True">
+            <ProcessValue datatype="text" value="diálogo" />
+          </attribute>
+          <attribute name="uIsPassword" isUserVisible="True">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="uIsRequiredForForm" isUserVisible="True">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="uName" inuse="True" isUserVisible="True">
+            <ProcessValue datatype="text" value="Aplicaciones" />
+          </attribute>
+          <attribute name="uOrientation" isUserVisible="True">
+            <ProcessValue datatype="text" value="None" />
+          </attribute>
+          <attribute name="uItemStatus" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uItemType" inuse="True" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uOffscreen" isUserVisible="True">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="uTopLevelWindowId" inuse="True" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uLabeledBy" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uEnabled" isUserVisible="True">
+            <ProcessValue datatype="text" value="True" />
+          </attribute>
+          <attribute name="uAcceleratorKey" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uAccessKey" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uHasKeyboardFocus" isUserVisible="True">
+            <ProcessValue datatype="text" value="False" />
+          </attribute>
+          <attribute name="uHelpText" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uProcessId" isUserVisible="True">
+            <ProcessValue datatype="text" value="3560" />
+          </attribute>
+          <attribute name="puControlType" isUserVisible="True">
+            <ProcessValue datatype="text" value="Group" />
+          </attribute>
+          <attribute name="puLocalizedControlType" isUserVisible="True">
+            <ProcessValue datatype="text" value="grupo" />
+          </attribute>
+          <attribute name="puClassName" isUserVisible="True">
+            <ProcessValue datatype="text" value="pa-m pa-a pa-et pa-eu pa-bm pa-l flexbox" />
+          </attribute>
+          <attribute name="puName" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="puAutomationId" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="matchindex" isUserVisible="True">
+            <ProcessValue datatype="number" value="1" />
+          </attribute>
+        </attributes>
+      </element>
+      <element name="VistaGestionEstudiante">
+        <id>e188011c-c066-484e-bf6a-2dc8932a1ffc</id>
+        <element name="ValidacionVistaGestionEstudiantes">
+          <id>300731e3-f67c-4cd6-acb6-df68f6485354</id>
+          <type>UIAButton</type>
+          <basetype>UIAButton</basetype>
+          <datatype>text</datatype>
+          <diagnose>False</diagnose>
+          <attributes>
+            <attribute name="uX" isUserVisible="True">
+              <ProcessValue datatype="number" value="279" />
+            </attribute>
+            <attribute name="uY" isUserVisible="True">
+              <ProcessValue datatype="number" value="125" />
+            </attribute>
+            <attribute name="uWidth" isUserVisible="True">
+              <ProcessValue datatype="number" value="162" />
+            </attribute>
+            <attribute name="uHeight" isUserVisible="True">
+              <ProcessValue datatype="number" value="25" />
+            </attribute>
+            <attribute name="uClassName" isUserVisible="True">
+              <ProcessValue datatype="text" value="pa-s pa-dk pa-cg pa-gk pa-dx pa-hj pa-ck pa-hk pa-u pa-v pa-hl pa-hm pa-hn pa-bm pa-ho " />
+            </attribute>
+            <attribute name="uAutomationId" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="id-24" />
+            </attribute>
+            <attribute name="uControlType" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="Button" />
+            </attribute>
+            <attribute name="uLocalizedControlType" isUserVisible="True">
+              <ProcessValue datatype="text" value="botón" />
+            </attribute>
+            <attribute name="uIsPassword" isUserVisible="True">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uIsRequiredForForm" isUserVisible="True">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uName" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="Gestión del estudiante UI" />
+            </attribute>
+            <attribute name="uOrientation" isUserVisible="True">
+              <ProcessValue datatype="text" value="None" />
+            </attribute>
+            <attribute name="uItemStatus" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uItemType" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uOffscreen" isUserVisible="True">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uTopLevelWindowId" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uLabeledBy" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uEnabled" isUserVisible="True">
+              <ProcessValue datatype="text" value="True" />
+            </attribute>
+            <attribute name="uAcceleratorKey" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uAccessKey" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uHasKeyboardFocus" isUserVisible="True">
+              <ProcessValue datatype="text" value="False" />
+            </attribute>
+            <attribute name="uHelpText" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uProcessId" isUserVisible="True">
+              <ProcessValue datatype="text" value="3560" />
+            </attribute>
+            <attribute name="puControlType" isUserVisible="True">
+              <ProcessValue datatype="text" value="Group" />
+            </attribute>
+            <attribute name="puLocalizedControlType" isUserVisible="True">
+              <ProcessValue datatype="text" value="banner" />
+            </attribute>
+            <attribute name="puClassName" isUserVisible="True">
+              <ProcessValue datatype="text" value=" " />
+            </attribute>
+            <attribute name="puName" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="puAutomationId" isUserVisible="True">
+              <ProcessValue datatype="text" value="id-207" />
+            </attribute>
+            <attribute name="matchindex" isUserVisible="True">
+              <ProcessValue datatype="number" value="1" />
+            </attribute>
+          </attributes>
+        </element>
+        <element name="BotonMenuIzquiedaMaximizado">
+          <id>2d86a8e9-e7fa-4ab3-85fb-ee8b029ae6d8</id>
+          <type>UIAButton</type>
+          <basetype>UIAButton</basetype>
+          <datatype>text</datatype>
+          <diagnose>False</diagnose>
+          <attributes>
+            <attribute name="uX" isUserVisible="True">
+              <ProcessValue datatype="number" value="12" />
+            </attribute>
+            <attribute name="uY" isUserVisible="True">
+              <ProcessValue datatype="number" value="713" />
+            </attribute>
+            <attribute name="uWidth" isUserVisible="True">
+              <ProcessValue datatype="number" value="183" />
+            </attribute>
+            <attribute name="uHeight" isUserVisible="True">
+              <ProcessValue datatype="number" value="29" />
+            </attribute>
+            <attribute name="uClassName" isUserVisible="True">
+              <ProcessValue datatype="text" value="pa-cx pa-ez pa-ck pa-g pa-w pa-lk pa-be pa-ai pa-ll pa-fp pa-lm pa-bm pa-k pa-ke pa-ln pa-lo pa-lp flexbox" />
+            </attribute>
+            <attribute name="uAutomationId" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="areaSwitcherId" />
+            </attribute>
+            <attribute name="uControlType" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="Button" />
+            </attribute>
+            <attribute name="uLocalizedControlType" isUserVisible="True">
+              <ProcessValue datatype="text" value="botón" />
+            </attribute>
+            <attribute name="uIsPassword" isUserVisible="True">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uIsRequiredForForm" isUserVisible="True">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uName" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="Gestión del Estudiante (cambiar área)" />
+            </attribute>
+            <attribute name="uOrientation" isUserVisible="True">
+              <ProcessValue datatype="text" value="None" />
+            </attribute>
+            <attribute name="uItemStatus" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uItemType" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uOffscreen" isUserVisible="True">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uTopLevelWindowId" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uLabeledBy" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uEnabled" isUserVisible="True">
+              <ProcessValue datatype="text" value="True" />
+            </attribute>
+            <attribute name="uAcceleratorKey" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uAccessKey" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uHasKeyboardFocus" isUserVisible="True">
+              <ProcessValue datatype="text" value="False" />
+            </attribute>
+            <attribute name="uHelpText" isUserVisible="True">
+              <ProcessValue datatype="text" value="Gestión del Estudiante (cambiar área)" />
+            </attribute>
+            <attribute name="uProcessId" isUserVisible="True">
+              <ProcessValue datatype="text" value="3560" />
+            </attribute>
+            <attribute name="puControlType" isUserVisible="True">
+              <ProcessValue datatype="text" value="Group" />
+            </attribute>
+            <attribute name="puLocalizedControlType" isUserVisible="True">
+              <ProcessValue datatype="text" value="navegación" />
+            </attribute>
+            <attribute name="puClassName" isUserVisible="True">
+              <ProcessValue datatype="text" value="pa-l pa-bf pa-jb pa-ah pa-h pa-bj pa-jc pa-jd pa-ae pa-g smallscroll  flexbox" />
+            </attribute>
+            <attribute name="puName" isUserVisible="True">
+              <ProcessValue datatype="text" value="Navegar por Dynamics 365" />
+            </attribute>
+            <attribute name="puAutomationId" isUserVisible="True">
+              <ProcessValue datatype="text" value="id-48" />
+            </attribute>
+            <attribute name="matchindex" isUserVisible="True">
+              <ProcessValue datatype="number" value="1" />
+            </attribute>
+          </attributes>
+        </element>
+        <type>UIAElement</type>
+        <basetype>UIAElement</basetype>
+        <datatype>text</datatype>
+        <diagnose>False</diagnose>
+        <attributes>
+          <attribute name="uX" isUserVisible="True">
+            <ProcessValue datatype="number" value="48" />
+          </attribute>
+          <attribute name="uY" isUserVisible="True">
+            <ProcessValue datatype="number" value="162" />
+          </attribute>
+          <attribute name="uWidth" isUserVisible="True">
+            <ProcessValue datatype="number" value="1228" />
+          </attribute>
+          <attribute name="uHeight" isUserVisible="True">
+            <ProcessValue datatype="number" value="586" />
+          </attribute>
+          <attribute name="uClassName" isUserVisible="True">
+            <ProcessValue datatype="text" value="pa-ae pa-g pa-l pa-i pa-j pa-h pa-k pa-bk flexbox" />
+          </attribute>
+          <attribute name="uAutomationId" inuse="True" isUserVisible="True">
+            <ProcessValue datatype="text" value="id-208" />
+          </attribute>
+          <attribute name="uControlType" inuse="True" isUserVisible="True">
+            <ProcessValue datatype="text" value="Group" />
+          </attribute>
+          <attribute name="uLocalizedControlType" isUserVisible="True">
+            <ProcessValue datatype="text" value="principal" />
+          </attribute>
+          <attribute name="uIsPassword" isUserVisible="True">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="uIsRequiredForForm" isUserVisible="True">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="uName" inuse="True" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uOrientation" isUserVisible="True">
+            <ProcessValue datatype="text" value="None" />
+          </attribute>
+          <attribute name="uItemStatus" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uItemType" inuse="True" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uOffscreen" isUserVisible="True">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="uTopLevelWindowId" inuse="True" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uLabeledBy" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uEnabled" isUserVisible="True">
+            <ProcessValue datatype="text" value="True" />
+          </attribute>
+          <attribute name="uAcceleratorKey" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uAccessKey" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uHasKeyboardFocus" isUserVisible="True">
+            <ProcessValue datatype="text" value="False" />
+          </attribute>
+          <attribute name="uHelpText" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uProcessId" isUserVisible="True">
+            <ProcessValue datatype="text" value="3560" />
+          </attribute>
+          <attribute name="puControlType" isUserVisible="True">
+            <ProcessValue datatype="text" value="Group" />
+          </attribute>
+          <attribute name="puLocalizedControlType" isUserVisible="True">
+            <ProcessValue datatype="text" value="grupo" />
+          </attribute>
+          <attribute name="puClassName" isUserVisible="True">
+            <ProcessValue datatype="text" value="pa-g pa-h pa-i pa-j pa-k pa-l pa-m pa-bg pa-bh pa-ae pa-bi pa-bj flexbox" />
+          </attribute>
+          <attribute name="puName" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="puAutomationId" isUserVisible="True">
+            <ProcessValue datatype="text" value="mainContent" />
+          </attribute>
+          <attribute name="matchindex" isUserVisible="True">
+            <ProcessValue datatype="number" value="1" />
+          </attribute>
+        </attributes>
+      </element>
+      <element name="Menu_Izquierda">
+        <id>1f844ac9-9be0-4be5-9de1-db098fd53a70</id>
+        <element name="SubMenuGestionEstudiante">
+          <id>fe8ee81d-f8e1-448c-b4d2-7d2eb2d473fb</id>
+          <element name="Boton_Solicitud">
+            <id>bc45d935-abab-4865-b77c-fc4bfd771845</id>
+            <type>UIARadio</type>
+            <basetype>UIARadio</basetype>
+            <datatype>flag</datatype>
+            <diagnose>False</diagnose>
+            <attributes>
+              <attribute name="uX" isUserVisible="True">
+                <ProcessValue datatype="number" value="4" />
+              </attribute>
+              <attribute name="uY" isUserVisible="True">
+                <ProcessValue datatype="number" value="601" />
+              </attribute>
+              <attribute name="uWidth" isUserVisible="True">
+                <ProcessValue datatype="number" value="200" />
+              </attribute>
+              <attribute name="uHeight" isUserVisible="True">
+                <ProcessValue datatype="number" value="35" />
+              </attribute>
+              <attribute name="uClassName" isUserVisible="True">
+                <ProcessValue datatype="text" value="pa-dl pa-ck pa-g pa-be pa-dv pa-dq pa-qa pa-qb pa-jl " />
+              </attribute>
+              <attribute name="uAutomationId" inuse="True" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uControlType" inuse="True" isUserVisible="True">
+                <ProcessValue datatype="text" value="RadioButton" />
+              </attribute>
+              <attribute name="uLocalizedControlType" isUserVisible="True">
+                <ProcessValue datatype="text" value="botón de radio de elemento de menú" />
+              </attribute>
+              <attribute name="uIsPassword" isUserVisible="True">
+                <ProcessValue datatype="flag" value="False" />
+              </attribute>
+              <attribute name="uIsRequiredForForm" isUserVisible="True">
+                <ProcessValue datatype="flag" value="False" />
+              </attribute>
+              <attribute name="uName" inuse="True" isUserVisible="True">
+                <ProcessValue datatype="text" value="Solicitudes" />
+              </attribute>
+              <attribute name="uOrientation" isUserVisible="True">
+                <ProcessValue datatype="text" value="None" />
+              </attribute>
+              <attribute name="uItemStatus" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uItemType" inuse="True" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uOffscreen" isUserVisible="True">
+                <ProcessValue datatype="flag" value="False" />
+              </attribute>
+              <attribute name="uTopLevelWindowId" inuse="True" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uLabeledBy" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uEnabled" isUserVisible="True">
+                <ProcessValue datatype="text" value="True" />
+              </attribute>
+              <attribute name="uAcceleratorKey" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uAccessKey" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uHasKeyboardFocus" isUserVisible="True">
+                <ProcessValue datatype="text" value="False" />
+              </attribute>
+              <attribute name="uHelpText" isUserVisible="True">
+                <ProcessValue datatype="text" value="Solicitudes" />
+              </attribute>
+              <attribute name="uProcessId" isUserVisible="True">
+                <ProcessValue datatype="text" value="3560" />
+              </attribute>
+              <attribute name="puControlType" isUserVisible="True">
+                <ProcessValue datatype="text" value="Menu" />
+              </attribute>
+              <attribute name="puLocalizedControlType" isUserVisible="True">
+                <ProcessValue datatype="text" value="menú" />
+              </attribute>
+              <attribute name="puClassName" isUserVisible="True">
+                <ProcessValue datatype="text" value=" " />
+              </attribute>
+              <attribute name="puName" isUserVisible="True">
+                <ProcessValue datatype="text" value="Cambiar área" />
+              </attribute>
+              <attribute name="puAutomationId" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="matchindex" isUserVisible="True">
+                <ProcessValue datatype="number" value="1" />
+              </attribute>
+            </attributes>
+          </element>
+          <type>UIAEdit</type>
+          <basetype>UIAEdit</basetype>
+          <datatype>radiobuttons</datatype>
+          <diagnose>False</diagnose>
+          <attributes>
+            <attribute name="uX" isUserVisible="True">
+              <ProcessValue datatype="number" value="44" />
+            </attribute>
+            <attribute name="uY" isUserVisible="True">
+              <ProcessValue datatype="number" value="718" />
+            </attribute>
+            <attribute name="uWidth" isUserVisible="True">
+              <ProcessValue datatype="number" value="127" />
+            </attribute>
+            <attribute name="uHeight" isUserVisible="True">
+              <ProcessValue datatype="number" value="19" />
+            </attribute>
+            <attribute name="uClassName" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uAutomationId" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uControlType" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="Text" />
+            </attribute>
+            <attribute name="uLocalizedControlType" isUserVisible="True">
+              <ProcessValue datatype="text" value="texto" />
+            </attribute>
+            <attribute name="uIsPassword" isUserVisible="True">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uIsRequiredForForm" isUserVisible="True">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uName" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="Gestión del Estudiante" />
+            </attribute>
+            <attribute name="uOrientation" isUserVisible="True">
+              <ProcessValue datatype="text" value="None" />
+            </attribute>
+            <attribute name="uItemStatus" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uItemType" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uOffscreen" isUserVisible="True">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uTopLevelWindowId" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uLabeledBy" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uEnabled" isUserVisible="True">
+              <ProcessValue datatype="text" value="True" />
+            </attribute>
+            <attribute name="uAcceleratorKey" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uAccessKey" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uHasKeyboardFocus" isUserVisible="True">
+              <ProcessValue datatype="text" value="False" />
+            </attribute>
+            <attribute name="uHelpText" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uProcessId" isUserVisible="True">
+              <ProcessValue datatype="text" value="3560" />
+            </attribute>
+            <attribute name="puControlType" isUserVisible="True">
+              <ProcessValue datatype="text" value="Button" />
+            </attribute>
+            <attribute name="puLocalizedControlType" isUserVisible="True">
+              <ProcessValue datatype="text" value="botón" />
+            </attribute>
+            <attribute name="puClassName" isUserVisible="True">
+              <ProcessValue datatype="text" value="pa-cx pa-ey pa-ck pa-g pa-w pa-kt pa-be pa-ai pa-ku pa-fo pa-kv pa-bm pa-k pa-jx pa-kw pa-kx pa-ky flexbox" />
+            </attribute>
+            <attribute name="puName" isUserVisible="True">
+              <ProcessValue datatype="text" value="Gestión del Estudiante (cambiar área)" />
+            </attribute>
+            <attribute name="puAutomationId" isUserVisible="True">
+              <ProcessValue datatype="text" value="areaSwitcherId" />
+            </attribute>
+            <attribute name="matchindex" isUserVisible="True">
+              <ProcessValue datatype="number" value="1" />
+            </attribute>
+          </attributes>
+        </element>
+        <element name="SubMenuSolicitudes">
+          <id>05ae1d64-7502-4c06-9009-fdd9a0c469b7</id>
+          <element name="ServicioSolicitudes">
+            <id>3611023a-e872-4c81-87c7-3493440d8c42</id>
+            <type>UIATreeViewItem</type>
+            <basetype>UIATreeViewItem</basetype>
+            <datatype>text</datatype>
+            <diagnose>False</diagnose>
+            <attributes>
+              <attribute name="uX" isUserVisible="True">
+                <ProcessValue datatype="number" value="4" />
+              </attribute>
+              <attribute name="uY" isUserVisible="True">
+                <ProcessValue datatype="number" value="609" />
+              </attribute>
+              <attribute name="uWidth" isUserVisible="True">
+                <ProcessValue datatype="number" value="181" />
+              </attribute>
+              <attribute name="uHeight" isUserVisible="True">
+                <ProcessValue datatype="number" value="36" />
+              </attribute>
+              <attribute name="uClassName" isUserVisible="True">
+                <ProcessValue datatype="text" value="pa-bm pa-g pa-w pa-ck pa-dl pa-cx pa-h pa-qh pa-qi pa-qj pa-qk pa-jz pa-ql pa-qm pa-ka pa-qn " />
+              </attribute>
+              <attribute name="uAutomationId" inuse="True" isUserVisible="True">
+                <ProcessValue datatype="text" value="sitemap-entity-nav_cases" />
+              </attribute>
+              <attribute name="uControlType" inuse="True" isUserVisible="True">
+                <ProcessValue datatype="text" value="TreeItem" />
+              </attribute>
+              <attribute name="uLocalizedControlType" isUserVisible="True">
+                <ProcessValue datatype="text" value="elemento del árbol" />
+              </attribute>
+              <attribute name="uIsPassword" isUserVisible="True">
+                <ProcessValue datatype="flag" value="False" />
+              </attribute>
+              <attribute name="uIsRequiredForForm" isUserVisible="True">
+                <ProcessValue datatype="flag" value="False" />
+              </attribute>
+              <attribute name="uName" inuse="True" isUserVisible="True">
+                <ProcessValue datatype="text" value="Solicitudes" />
+              </attribute>
+              <attribute name="uOrientation" isUserVisible="True">
+                <ProcessValue datatype="text" value="None" />
+              </attribute>
+              <attribute name="uItemStatus" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uItemType" inuse="True" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uOffscreen" isUserVisible="True">
+                <ProcessValue datatype="flag" value="False" />
+              </attribute>
+              <attribute name="uTopLevelWindowId" inuse="True" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uLabeledBy" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uEnabled" isUserVisible="True">
+                <ProcessValue datatype="text" value="True" />
+              </attribute>
+              <attribute name="uAcceleratorKey" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uAccessKey" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uHasKeyboardFocus" isUserVisible="True">
+                <ProcessValue datatype="text" value="False" />
+              </attribute>
+              <attribute name="uHelpText" isUserVisible="True">
+                <ProcessValue datatype="text" value="Solicitudes" />
+              </attribute>
+              <attribute name="uProcessId" isUserVisible="True">
+                <ProcessValue datatype="text" value="3560" />
+              </attribute>
+              <attribute name="puControlType" isUserVisible="True">
+                <ProcessValue datatype="text" value="Group" />
+              </attribute>
+              <attribute name="puLocalizedControlType" isUserVisible="True">
+                <ProcessValue datatype="text" value="grupo" />
+              </attribute>
+              <attribute name="puClassName" isUserVisible="True">
+                <ProcessValue datatype="text" value="pa-fe pa-h pa-aj flexbox" />
+              </attribute>
+              <attribute name="puName" isUserVisible="True">
+                <ProcessValue datatype="text" value="Servicio" />
+              </attribute>
+              <attribute name="puAutomationId" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="matchindex" isUserVisible="True">
+                <ProcessValue datatype="number" value="1" />
+              </attribute>
+            </attributes>
+          </element>
+          <element name="ServicioSolicitudesMinimizado">
+            <id>2bb45a02-873f-48a5-8d9f-18e2d54ed9ca</id>
+            <type>UIATreeViewItem</type>
+            <basetype>UIATreeViewItem</basetype>
+            <datatype>text</datatype>
+            <diagnose>False</diagnose>
+            <attributes>
+              <attribute name="uX" isUserVisible="True">
+                <ProcessValue datatype="number" value="4" />
+              </attribute>
+              <attribute name="uY" isUserVisible="True">
+                <ProcessValue datatype="number" value="454" />
+              </attribute>
+              <attribute name="uWidth" isUserVisible="True">
+                <ProcessValue datatype="number" value="44" />
+              </attribute>
+              <attribute name="uHeight" isUserVisible="True">
+                <ProcessValue datatype="number" value="36" />
+              </attribute>
+              <attribute name="uClassName" isUserVisible="True">
+                <ProcessValue datatype="text" value="pa-kg pa-kh pa-ki pa-kj pa-kk pa-fo pa-cj pa-w pa-ah pa-ck pa-kl pa-dq pa-km pa-kn pa-ko " />
+              </attribute>
+              <attribute name="uAutomationId" inuse="True" isUserVisible="True">
+                <ProcessValue datatype="text" value="sitemap-entity-nav_cases" />
+              </attribute>
+              <attribute name="uControlType" inuse="True" isUserVisible="True">
+                <ProcessValue datatype="text" value="TreeItem" />
+              </attribute>
+              <attribute name="uLocalizedControlType" isUserVisible="True">
+                <ProcessValue datatype="text" value="elemento del árbol" />
+              </attribute>
+              <attribute name="uIsPassword" isUserVisible="True">
+                <ProcessValue datatype="flag" value="False" />
+              </attribute>
+              <attribute name="uIsRequiredForForm" isUserVisible="True">
+                <ProcessValue datatype="flag" value="False" />
+              </attribute>
+              <attribute name="uName" inuse="True" isUserVisible="True">
+                <ProcessValue datatype="text" value="Solicitudes" />
+              </attribute>
+              <attribute name="uOrientation" isUserVisible="True">
+                <ProcessValue datatype="text" value="None" />
+              </attribute>
+              <attribute name="uItemStatus" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uItemType" inuse="True" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uOffscreen" isUserVisible="True">
+                <ProcessValue datatype="flag" value="False" />
+              </attribute>
+              <attribute name="uTopLevelWindowId" inuse="True" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uLabeledBy" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uEnabled" isUserVisible="True">
+                <ProcessValue datatype="text" value="True" />
+              </attribute>
+              <attribute name="uAcceleratorKey" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uAccessKey" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uHasKeyboardFocus" isUserVisible="True">
+                <ProcessValue datatype="text" value="False" />
+              </attribute>
+              <attribute name="uHelpText" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uProcessId" isUserVisible="True">
+                <ProcessValue datatype="text" value="3560" />
+              </attribute>
+              <attribute name="puControlType" isUserVisible="True">
+                <ProcessValue datatype="text" value="Group" />
+              </attribute>
+              <attribute name="puLocalizedControlType" isUserVisible="True">
+                <ProcessValue datatype="text" value="grupo" />
+              </attribute>
+              <attribute name="puClassName" isUserVisible="True">
+                <ProcessValue datatype="text" value="pa-ff pa-h pa-aj flexbox" />
+              </attribute>
+              <attribute name="puName" isUserVisible="True">
+                <ProcessValue datatype="text" value="Servicio" />
+              </attribute>
+              <attribute name="puAutomationId" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="matchindex" isUserVisible="True">
+                <ProcessValue datatype="number" value="1" />
+              </attribute>
+            </attributes>
+          </element>
+          <element name="MenuSolicitudes">
+            <id>13e6fa32-6c81-41bb-ab4b-7354fdca06dc</id>
+            <element name="MenuSolicitudesActivas">
+              <id>51762685-5997-4c0d-903f-05cc29f38410</id>
+              <type>UIAButton</type>
+              <basetype>UIAButton</basetype>
+              <datatype>text</datatype>
+              <diagnose>False</diagnose>
+              <attributes>
+                <attribute name="uX" isUserVisible="True">
+                  <ProcessValue datatype="number" value="223" />
+                </attribute>
+                <attribute name="uY" isUserVisible="True">
+                  <ProcessValue datatype="number" value="232" />
+                </attribute>
+                <attribute name="uWidth" isUserVisible="True">
+                  <ProcessValue datatype="number" value="238" />
+                </attribute>
+                <attribute name="uHeight" isUserVisible="True">
+                  <ProcessValue datatype="number" value="38" />
+                </attribute>
+                <attribute name="uClassName" isUserVisible="True">
+                  <ProcessValue datatype="text" value="ms-Button ms-Button--default ms-Button--hasMenu root-352" />
+                </attribute>
+                <attribute name="uAutomationId" inuse="True" isUserVisible="True">
+                  <ProcessValue datatype="text" value="ViewSelector_6_00000000-0000-0000-00aa-000010001028" />
+                </attribute>
+                <attribute name="uControlType" inuse="True" isUserVisible="True">
+                  <ProcessValue datatype="text" value="Button" />
+                </attribute>
+                <attribute name="uLocalizedControlType" isUserVisible="True">
+                  <ProcessValue datatype="text" value="botón" />
+                </attribute>
+                <attribute name="uIsPassword" isUserVisible="True">
+                  <ProcessValue datatype="flag" value="False" />
+                </attribute>
+                <attribute name="uIsRequiredForForm" isUserVisible="True">
+                  <ProcessValue datatype="flag" value="False" />
+                </attribute>
+                <attribute name="uName" inuse="True" isUserVisible="True">
+                  <ProcessValue datatype="text" value="Mis solicitudes activas" />
+                </attribute>
+                <attribute name="uOrientation" isUserVisible="True">
+                  <ProcessValue datatype="text" value="None" />
+                </attribute>
+                <attribute name="uItemStatus" isUserVisible="True">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uItemType" inuse="True" isUserVisible="True">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uOffscreen" isUserVisible="True">
+                  <ProcessValue datatype="flag" value="False" />
+                </attribute>
+                <attribute name="uTopLevelWindowId" inuse="True" isUserVisible="True">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uLabeledBy" isUserVisible="True">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uEnabled" isUserVisible="True">
+                  <ProcessValue datatype="text" value="True" />
+                </attribute>
+                <attribute name="uAcceleratorKey" isUserVisible="True">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uAccessKey" isUserVisible="True">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uHasKeyboardFocus" isUserVisible="True">
+                  <ProcessValue datatype="text" value="False" />
+                </attribute>
+                <attribute name="uHelpText" isUserVisible="True">
+                  <ProcessValue datatype="text" value="Mis solicitudes activas" />
+                </attribute>
+                <attribute name="uProcessId" isUserVisible="True">
+                  <ProcessValue datatype="text" value="3560" />
+                </attribute>
+                <attribute name="puControlType" isUserVisible="True">
+                  <ProcessValue datatype="text" value="Text" />
+                </attribute>
+                <attribute name="puLocalizedControlType" isUserVisible="True">
+                  <ProcessValue datatype="text" value="título" />
+                </attribute>
+                <attribute name="puClassName" isUserVisible="True">
+                  <ProcessValue datatype="text" value="pa-j pa-ah pa-zu " />
+                </attribute>
+                <attribute name="puName" isUserVisible="True">
+                  <ProcessValue datatype="text" value="Mis solicitudes activas" />
+                </attribute>
+                <attribute name="puAutomationId" isUserVisible="True">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="matchindex" isUserVisible="True">
+                  <ProcessValue datatype="number" value="1" />
+                </attribute>
+              </attributes>
+            </element>
+            <element name="TablaSolicitudesActivas">
+              <id>265cea4f-e8ba-48a7-a9f1-740b0c6d70b3</id>
+              <type>UIATable</type>
+              <basetype>UIATable</basetype>
+              <datatype>collection</datatype>
+              <diagnose>False</diagnose>
+              <attributes>
+                <attribute name="uX" isUserVisible="True">
+                  <ProcessValue datatype="number" value="213" />
+                </attribute>
+                <attribute name="uY" isUserVisible="True">
+                  <ProcessValue datatype="number" value="279" />
+                </attribute>
+                <attribute name="uWidth" isUserVisible="True">
+                  <ProcessValue datatype="number" value="1047" />
+                </attribute>
+                <attribute name="uHeight" isUserVisible="True">
+                  <ProcessValue datatype="number" value="407" />
+                </attribute>
+                <attribute name="uClassName" isUserVisible="True">
+                  <ProcessValue datatype="text" value="ag-root ag-unselectable ag-layout-normal" />
+                </attribute>
+                <attribute name="uAutomationId" inuse="True" isUserVisible="True">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uControlType" inuse="True" isUserVisible="True">
+                  <ProcessValue datatype="text" value="DataGrid" />
+                </attribute>
+                <attribute name="uLocalizedControlType" isUserVisible="True">
+                  <ProcessValue datatype="text" value="cuadrícula de árbol" />
+                </attribute>
+                <attribute name="uIsPassword" isUserVisible="True">
+                  <ProcessValue datatype="flag" value="False" />
+                </attribute>
+                <attribute name="uIsRequiredForForm" isUserVisible="True">
+                  <ProcessValue datatype="flag" value="False" />
+                </attribute>
+                <attribute name="uName" inuse="True" isUserVisible="True">
+                  <ProcessValue datatype="text" value="Mis solicitudes activas" />
+                </attribute>
+                <attribute name="uOrientation" isUserVisible="True">
+                  <ProcessValue datatype="text" value="None" />
+                </attribute>
+                <attribute name="uItemStatus" isUserVisible="True">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uItemType" inuse="True" isUserVisible="True">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uOffscreen" isUserVisible="True">
+                  <ProcessValue datatype="flag" value="False" />
+                </attribute>
+                <attribute name="uTopLevelWindowId" inuse="True" isUserVisible="True">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uLabeledBy" isUserVisible="True">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uEnabled" isUserVisible="True">
+                  <ProcessValue datatype="text" value="True" />
+                </attribute>
+                <attribute name="uAcceleratorKey" isUserVisible="True">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uAccessKey" isUserVisible="True">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uHasKeyboardFocus" isUserVisible="True">
+                  <ProcessValue datatype="text" value="False" />
+                </attribute>
+                <attribute name="uHelpText" isUserVisible="True">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="uProcessId" isUserVisible="True">
+                  <ProcessValue datatype="text" value="3560" />
+                </attribute>
+                <attribute name="puControlType" isUserVisible="True">
+                  <ProcessValue datatype="text" value="Group" />
+                </attribute>
+                <attribute name="puLocalizedControlType" isUserVisible="True">
+                  <ProcessValue datatype="text" value="principal" />
+                </attribute>
+                <attribute name="puClassName" isUserVisible="True">
+                  <ProcessValue datatype="text" value="pa-ae pa-g pa-l pa-i pa-j pa-h pa-k pa-bk flexbox" />
+                </attribute>
+                <attribute name="puName" isUserVisible="True">
+                  <ProcessValue datatype="text" value="" />
+                </attribute>
+                <attribute name="puAutomationId" isUserVisible="True">
+                  <ProcessValue datatype="text" value="id-178" />
+                </attribute>
+                <attribute name="matchindex" isUserVisible="True">
+                  <ProcessValue datatype="number" value="1" />
+                </attribute>
+              </attributes>
+            </element>
+            <type>UIAElement</type>
+            <basetype>UIAElement</basetype>
+            <datatype>text</datatype>
+            <diagnose>False</diagnose>
+            <attributes>
+              <attribute name="uX" isUserVisible="True">
+                <ProcessValue datatype="number" value="204" />
+              </attribute>
+              <attribute name="uY" isUserVisible="True">
+                <ProcessValue datatype="number" value="162" />
+              </attribute>
+              <attribute name="uWidth" isUserVisible="True">
+                <ProcessValue datatype="number" value="1072" />
+              </attribute>
+              <attribute name="uHeight" isUserVisible="True">
+                <ProcessValue datatype="number" value="586" />
+              </attribute>
+              <attribute name="uClassName" isUserVisible="True">
+                <ProcessValue datatype="text" value="pa-ae pa-g pa-l pa-i pa-j pa-h pa-k pa-bk flexbox" />
+              </attribute>
+              <attribute name="uAutomationId" inuse="True" isUserVisible="True">
+                <ProcessValue datatype="text" value="id-178" />
+              </attribute>
+              <attribute name="uControlType" inuse="True" isUserVisible="True">
+                <ProcessValue datatype="text" value="Group" />
+              </attribute>
+              <attribute name="uLocalizedControlType" isUserVisible="True">
+                <ProcessValue datatype="text" value="principal" />
+              </attribute>
+              <attribute name="uIsPassword" isUserVisible="True">
+                <ProcessValue datatype="flag" value="False" />
+              </attribute>
+              <attribute name="uIsRequiredForForm" isUserVisible="True">
+                <ProcessValue datatype="flag" value="False" />
+              </attribute>
+              <attribute name="uName" inuse="True" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uOrientation" isUserVisible="True">
+                <ProcessValue datatype="text" value="None" />
+              </attribute>
+              <attribute name="uItemStatus" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uItemType" inuse="True" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uOffscreen" isUserVisible="True">
+                <ProcessValue datatype="flag" value="False" />
+              </attribute>
+              <attribute name="uTopLevelWindowId" inuse="True" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uLabeledBy" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uEnabled" isUserVisible="True">
+                <ProcessValue datatype="text" value="True" />
+              </attribute>
+              <attribute name="uAcceleratorKey" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uAccessKey" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uHasKeyboardFocus" isUserVisible="True">
+                <ProcessValue datatype="text" value="False" />
+              </attribute>
+              <attribute name="uHelpText" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="uProcessId" isUserVisible="True">
+                <ProcessValue datatype="text" value="3560" />
+              </attribute>
+              <attribute name="puControlType" isUserVisible="True">
+                <ProcessValue datatype="text" value="Group" />
+              </attribute>
+              <attribute name="puLocalizedControlType" isUserVisible="True">
+                <ProcessValue datatype="text" value="grupo" />
+              </attribute>
+              <attribute name="puClassName" isUserVisible="True">
+                <ProcessValue datatype="text" value="pa-g pa-h pa-i pa-j pa-k pa-l pa-m pa-bg pa-bh pa-ae pa-bi pa-bj flexbox" />
+              </attribute>
+              <attribute name="puName" isUserVisible="True">
+                <ProcessValue datatype="text" value="" />
+              </attribute>
+              <attribute name="puAutomationId" isUserVisible="True">
+                <ProcessValue datatype="text" value="mainContent" />
+              </attribute>
+              <attribute name="matchindex" isUserVisible="True">
+                <ProcessValue datatype="number" value="1" />
+              </attribute>
+            </attributes>
+          </element>
+          <type>UIAButton</type>
+          <basetype>UIAButton</basetype>
+          <datatype>text</datatype>
+          <diagnose>False</diagnose>
+          <attributes>
+            <attribute name="uX" isUserVisible="True">
+              <ProcessValue datatype="number" value="12" />
+            </attribute>
+            <attribute name="uY" isUserVisible="True">
+              <ProcessValue datatype="number" value="713" />
+            </attribute>
+            <attribute name="uWidth" isUserVisible="True">
+              <ProcessValue datatype="number" value="183" />
+            </attribute>
+            <attribute name="uHeight" isUserVisible="True">
+              <ProcessValue datatype="number" value="29" />
+            </attribute>
+            <attribute name="uClassName" isUserVisible="True">
+              <ProcessValue datatype="text" value="pa-cx pa-ey pa-ck pa-g pa-w pa-kt pa-be pa-ai pa-ku pa-fo pa-kv pa-bm pa-k pa-jx pa-kw pa-kx pa-ky flexbox" />
+            </attribute>
+            <attribute name="uAutomationId" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="areaSwitcherId" />
+            </attribute>
+            <attribute name="uControlType" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="Button" />
+            </attribute>
+            <attribute name="uLocalizedControlType" isUserVisible="True">
+              <ProcessValue datatype="text" value="botón" />
+            </attribute>
+            <attribute name="uIsPassword" isUserVisible="True">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uIsRequiredForForm" isUserVisible="True">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uName" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="Solicitudes (cambiar área)" />
+            </attribute>
+            <attribute name="uOrientation" isUserVisible="True">
+              <ProcessValue datatype="text" value="None" />
+            </attribute>
+            <attribute name="uItemStatus" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uItemType" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uOffscreen" isUserVisible="True">
+              <ProcessValue datatype="flag" value="False" />
+            </attribute>
+            <attribute name="uTopLevelWindowId" inuse="True" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uLabeledBy" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uEnabled" isUserVisible="True">
+              <ProcessValue datatype="text" value="True" />
+            </attribute>
+            <attribute name="uAcceleratorKey" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uAccessKey" isUserVisible="True">
+              <ProcessValue datatype="text" value="" />
+            </attribute>
+            <attribute name="uHasKeyboardFocus" isUserVisible="True">
+              <ProcessValue datatype="text" value="False" />
+            </attribute>
+            <attribute name="uHelpText" isUserVisible="True">
+              <ProcessValue datatype="text" value="Solicitudes (cambiar área)" />
+            </attribute>
+            <attribute name="uProcessId" isUserVisible="True">
+              <ProcessValue datatype="text" value="3560" />
+            </attribute>
+            <attribute name="puControlType" isUserVisible="True">
+              <ProcessValue datatype="text" value="Group" />
+            </attribute>
+            <attribute name="puLocalizedControlType" isUserVisible="True">
+              <ProcessValue datatype="text" value="navegación" />
+            </attribute>
+            <attribute name="puClassName" isUserVisible="True">
+              <ProcessValue datatype="text" value="pa-l pa-ps pa-ja pa-ah pa-h pa-bj pa-jb pa-jc pa-ae pa-g smallscroll  flexbox" />
+            </attribute>
+            <attribute name="puName" isUserVisible="True">
+              <ProcessValue datatype="text" value="Navegar por Dynamics 365" />
+            </attribute>
+            <attribute name="puAutomationId" isUserVisible="True">
+              <ProcessValue datatype="text" value="id-32" />
+            </attribute>
+            <attribute name="matchindex" isUserVisible="True">
+              <ProcessValue datatype="number" value="1" />
+            </attribute>
+          </attributes>
+        </element>
+        <type>UIAElement</type>
+        <basetype>UIAElement</basetype>
+        <datatype>text</datatype>
+        <diagnose>False</diagnose>
+        <attributes>
+          <attribute name="uX" isUserVisible="True">
+            <ProcessValue datatype="number" value="4" />
+          </attribute>
+          <attribute name="uY" isUserVisible="True">
+            <ProcessValue datatype="number" value="162" />
+          </attribute>
+          <attribute name="uWidth" isUserVisible="True">
+            <ProcessValue datatype="number" value="200" />
+          </attribute>
+          <attribute name="uHeight" isUserVisible="True">
+            <ProcessValue datatype="number" value="586" />
+          </attribute>
+          <attribute name="uClassName" isUserVisible="True">
+            <ProcessValue datatype="text" value="pa-l pa-bf pa-jo pa-ah pa-h pa-bj pa-jp pa-jq pa-ae pa-g smallscroll  flexbox" />
+          </attribute>
+          <attribute name="uAutomationId" inuse="True" isUserVisible="True">
+            <ProcessValue datatype="text" value="id-35" />
+          </attribute>
+          <attribute name="uControlType" inuse="True" isUserVisible="True">
+            <ProcessValue datatype="text" value="Group" />
+          </attribute>
+          <attribute name="uLocalizedControlType" isUserVisible="True">
+            <ProcessValue datatype="text" value="navegación" />
+          </attribute>
+          <attribute name="uIsPassword" isUserVisible="True">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="uIsRequiredForForm" isUserVisible="True">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="uName" inuse="True" isUserVisible="True">
+            <ProcessValue datatype="text" value="Navegar por Dynamics 365" />
+          </attribute>
+          <attribute name="uOrientation" isUserVisible="True">
+            <ProcessValue datatype="text" value="None" />
+          </attribute>
+          <attribute name="uItemStatus" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uItemType" inuse="True" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uOffscreen" isUserVisible="True">
+            <ProcessValue datatype="flag" value="False" />
+          </attribute>
+          <attribute name="uTopLevelWindowId" inuse="True" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uLabeledBy" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uEnabled" isUserVisible="True">
+            <ProcessValue datatype="text" value="True" />
+          </attribute>
+          <attribute name="uAcceleratorKey" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uAccessKey" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uHasKeyboardFocus" isUserVisible="True">
+            <ProcessValue datatype="text" value="False" />
+          </attribute>
+          <attribute name="uHelpText" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="uProcessId" isUserVisible="True">
+            <ProcessValue datatype="text" value="3560" />
+          </attribute>
+          <attribute name="puControlType" isUserVisible="True">
+            <ProcessValue datatype="text" value="Group" />
+          </attribute>
+          <attribute name="puLocalizedControlType" isUserVisible="True">
+            <ProcessValue datatype="text" value="grupo" />
+          </attribute>
+          <attribute name="puClassName" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="puName" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="puAutomationId" isUserVisible="True">
+            <ProcessValue datatype="text" value="" />
+          </attribute>
+          <attribute name="matchindex" isUserVisible="True">
+            <ProcessValue datatype="number" value="1" />
+          </attribute>
+        </attributes>
+      </element>
+      <type>Application</type>
+      <basetype>Application</basetype>
+      <datatype>unknown</datatype>
+      <diagnose>False</diagnose>
+    </element>
+    <apptypeinfo>
+      <id>Win32Launch</id>
+      <parameters>
+        <parameter>
+          <name>Path</name>
+          <value>C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe</value>
+        </parameter>
+        <parameter>
+          <name>CommandLineParams</name>
+          <value>https://prd-duocuc.crm2.dynamics.com</value>
+        </parameter>
+        <parameter>
+          <name>WorkingDirectory</name>
+          <value>C:\Program Files (x86)\Microsoft\Edge\Application</value>
+        </parameter>
+        <parameter>
+          <name>NonInvasive</name>
+          <value>True</value>
+        </parameter>
+        <parameter>
+          <name>ProcessMode</name>
+          <value>ExtSameArch</value>
+        </parameter>
+        <parameter>
+          <name>ExternalProcessTimeout</name>
+          <value>0</value>
+        </parameter>
+        <parameter>
+          <name>Options</name>
+          <value>
+          </value>
+        </parameter>
+      </parameters>
+    </apptypeinfo>
+  </appdef>
+  <view>
+    <camerax>0</camerax>
+    <cameray>0</cameray>
+    <zoom version="2">1.25</zoom>
+  </view>
+  <preconditions />
+  <endpoint narrative="" />
+  <subsheet subsheetid="7d814529-9fef-4709-9bb6-b2eca634a6e3" type="CleanUp" published="True">
+    <name>Clean Up</name>
+    <view>
+      <camerax>0</camerax>
+      <cameray>0</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <subsheet subsheetid="c6add5da-5890-474d-80ba-50a900a46c4b" type="Normal" published="False">
+    <name>AbrirNavegadorCRM</name>
+    <view>
+      <camerax>0</camerax>
+      <cameray>0</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <subsheet subsheetid="eb22872c-066f-48fb-800a-1078a0400385" type="Normal" published="True">
+    <name>SeleccionAplicacionesPublicadas</name>
+    <view>
+      <camerax>123</camerax>
+      <cameray>-6</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <subsheet subsheetid="4ae117db-c6e7-4594-a181-39a806c5599c" type="Normal" published="True">
+    <name>Gestion_Estudiante</name>
+    <view>
+      <camerax>-170</camerax>
+      <cameray>-12</cameray>
+      <zoom version="2">1.25</zoom>
+    </view>
+  </subsheet>
+  <stage stageid="85bd9d00-5423-4b53-8304-b162e7eb67de" name="Start" type="Start">
+    <loginhibit />
+    <display x="15" y="-105" />
+    <onsuccess>991e7c88-4445-48bc-8f1e-e3f3bb92578c</onsuccess>
+  </stage>
+  <stage stageid="bcac7e6f-f430-4327-827e-778a818c152d" name="End" type="End">
+    <loginhibit />
+    <display x="15" y="90" />
+  </stage>
+  <stage stageid="65cb9af0-1df4-4f91-a943-a078ab82c694" name="Stage1" type="ProcessInfo">
+    <display x="-195" y="-105" w="150" h="90" />
+    <references>
+      <reference>System.dll</reference>
+      <reference>System.Data.dll</reference>
+      <reference>System.Xml.dll</reference>
+      <reference>System.Drawing.dll</reference>
+    </references>
+    <imports>
+      <import>System</import>
+      <import>System.Drawing</import>
+      <import>System.Data</import>
+    </imports>
+    <language>visualbasic</language>
+    <pythondllpath>
+    </pythondllpath>
+    <pythonenvpath>
+    </pythonenvpath>
+    <globalcode><![CDATA[]]></globalcode>
+    <code><![CDATA[]]></code>
+  </stage>
+  <stage stageid="f4d7a36b-a8e0-495d-8c43-a2dd3c38ed23" name="Limpieza" type="SubSheetInfo">
+    <subsheetid>7d814529-9fef-4709-9bb6-b2eca634a6e3</subsheetid>
+    <display x="-195" y="-105" w="150" h="90" />
+  </stage>
+  <stage stageid="dd8b245f-24bb-4742-a16b-0d77ecb38de0" name="Start" type="Start">
+    <subsheetid>7d814529-9fef-4709-9bb6-b2eca634a6e3</subsheetid>
+    <loginhibit />
+    <display x="15" y="-105" />
+    <onsuccess>fff30b50-7359-4406-a9be-df10026b813d</onsuccess>
+  </stage>
+  <stage stageid="fff30b50-7359-4406-a9be-df10026b813d" name="End" type="End">
+    <subsheetid>7d814529-9fef-4709-9bb6-b2eca634a6e3</subsheetid>
+    <loginhibit />
+    <display x="15" y="90" />
+  </stage>
+  <stage stageid="3774a456-d765-4672-909f-4477a11420ec" name="Limpieza" type="Note">
+    <subsheetid>7d814529-9fef-4709-9bb6-b2eca634a6e3</subsheetid>
+    <narrative>Clean Up Page
+
+This is an optional page where you might choose to perform some finalisation (or "cleanup") tasks as your business object is closed down.
+
+The cleanup action will be called automatically immediately after closing your business object at the end of a business process.
+
+You will not be able to call this action from a business process, nor will it be called at any other time than before the disposal of the business object.</narrative>
+    <display x="-180" y="60" w="180" h="230" />
+  </stage>
+  <stage stageid="0df88497-0ff1-46db-85f3-0b8f49d7adae" name="Inicializar" type="Note">
+    <narrative>Initialise Page
+
+This is an optional page where you might choose to perform some initialisation tasks after your business object is loaded.
+
+The initialise action will be called automatically immediately after loading your business object.
+
+You will not be able to call this action from a business process, nor will it be called at any other time than after the creation of the object.</narrative>
+    <display x="-180" y="60" w="180" h="230" />
+  </stage>
+  <stage stageid="a106e71c-e7ba-4dd9-8feb-08c7c3bf9dc5" name="AbrirNavegadorCRM" type="SubSheetInfo">
+    <subsheetid>c6add5da-5890-474d-80ba-50a900a46c4b</subsheetid>
+    <display x="-195" y="-105" w="150" h="90" />
+  </stage>
+  <stage stageid="a04c768f-875d-4071-a61d-fdd770399e76" name="Iniciar" type="Start">
+    <subsheetid>c6add5da-5890-474d-80ba-50a900a46c4b</subsheetid>
+    <loginhibit />
+    <display x="15" y="-105" />
+    <onsuccess>fd1fd708-b040-4070-97a8-e6b4892898ce</onsuccess>
+  </stage>
+  <stage stageid="e4436380-8583-4354-90e2-2f4fe266520d" name="Finalizar" type="End">
+    <subsheetid>c6add5da-5890-474d-80ba-50a900a46c4b</subsheetid>
+    <loginhibit />
+    <display x="15" y="90" />
+  </stage>
+  <stage stageid="991e7c88-4445-48bc-8f1e-e3f3bb92578c" name="AbrirNavegadorCRM" type="SubSheet">
+    <loginhibit />
+    <display x="15" y="-30" />
+    <onsuccess>bcac7e6f-f430-4327-827e-778a818c152d</onsuccess>
+    <processid>c6add5da-5890-474d-80ba-50a900a46c4b</processid>
+  </stage>
+  <stage stageid="fd1fd708-b040-4070-97a8-e6b4892898ce" name="Navegar1" type="Navigate">
+    <subsheetid>c6add5da-5890-474d-80ba-50a900a46c4b</subsheetid>
+    <loginhibit />
+    <display x="15" y="-45" />
+    <onsuccess>e4436380-8583-4354-90e2-2f4fe266520d</onsuccess>
+  </stage>
+  <stage stageid="df000fcf-dfa2-480b-8321-d208901d5427" name="SeleccionAplicacionesPublicadas" type="SubSheetInfo">
+    <subsheetid>eb22872c-066f-48fb-800a-1078a0400385</subsheetid>
+    <display x="-225" y="-135" w="150" h="90" />
+  </stage>
+  <stage stageid="295706d3-287b-468e-83f0-de8e8e6c58ba" name="Iniciar" type="Start">
+    <subsheetid>eb22872c-066f-48fb-800a-1078a0400385</subsheetid>
+    <loginhibit />
+    <display x="-90" y="-165" />
+    <onsuccess>72d459a8-a6bf-4f22-b226-252cce1a1e3f</onsuccess>
+  </stage>
+  <stage stageid="df9d1b97-794a-4fe1-a2cc-dc6a303ad786" name="Finalizar" type="End">
+    <subsheetid>eb22872c-066f-48fb-800a-1078a0400385</subsheetid>
+    <loginhibit />
+    <display x="240" y="90" />
+  </stage>
+  <stage stageid="b28e8255-8f48-4ae2-ac4f-efcac7996839" name="ClickAplicacionesPublicadas" type="Navigate">
+    <subsheetid>eb22872c-066f-48fb-800a-1078a0400385</subsheetid>
+    <loginhibit />
+    <display x="120" y="-120" />
+    <onsuccess>e6787583-612e-4900-a8fa-93cd4b5b7f2b</onsuccess>
+    <step>
+      <element id="fccd1c41-946b-42e8-8251-35a601d66487" />
+      <action>
+        <id>UIAPress</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="fc2625b4-97a8-4711-a098-56f803157c7b" name="Gestion_Estudiante" type="SubSheetInfo">
+    <subsheetid>4ae117db-c6e7-4594-a181-39a806c5599c</subsheetid>
+    <display x="-510" y="-225" w="150" h="90" />
+  </stage>
+  <stage stageid="202c4c08-ad47-42a4-9b75-7769a8b70d53" name="Iniciar" type="Start">
+    <subsheetid>4ae117db-c6e7-4594-a181-39a806c5599c</subsheetid>
+    <loginhibit />
+    <display x="-315" y="-255" />
+    <onsuccess>ce5a3765-d4ba-4edd-8fe9-63c3e7417f8e</onsuccess>
+  </stage>
+  <stage stageid="6edf463d-3d1e-43a5-9f8e-8bf69d81fd9d" name="Finalizar" type="End">
+    <subsheetid>4ae117db-c6e7-4594-a181-39a806c5599c</subsheetid>
+    <loginhibit />
+    <display x="15" y="225" />
+  </stage>
+  <stage stageid="4332b734-0589-4a9f-b339-5f8e1f733cc0" name="Pagina_GestionEstudiante" type="Navigate">
+    <subsheetid>4ae117db-c6e7-4594-a181-39a806c5599c</subsheetid>
+    <loginhibit />
+    <display x="-120" y="-120" />
+    <onsuccess>20e2e503-e528-47f7-8144-ec31fa20b2d1</onsuccess>
+    <step>
+      <element id="2d86a8e9-e7fa-4ab3-85fb-ee8b029ae6d8" />
+      <action>
+        <id>UIAButtonPress</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="08d837dc-032c-4257-a85d-2139933ece95" name="Tiempo de espera1" type="WaitEnd">
+    <subsheetid>4ae117db-c6e7-4594-a181-39a806c5599c</subsheetid>
+    <loginhibit />
+    <display x="-315" y="-60" w="30" h="30" />
+    <onsuccess>175c288e-2d05-415a-a10b-cb87f0c5627d</onsuccess>
+    <groupid>71a0ebba-4dfb-49c8-b8a3-8da2199b05aa</groupid>
+  </stage>
+  <stage stageid="ce5a3765-d4ba-4edd-8fe9-63c3e7417f8e" name="Esperar1" type="WaitStart">
+    <subsheetid>4ae117db-c6e7-4594-a181-39a806c5599c</subsheetid>
+    <loginhibit />
+    <display x="-315" y="-165" w="30" h="30" />
+    <groupid>71a0ebba-4dfb-49c8-b8a3-8da2199b05aa</groupid>
+    <choices>
+      <choice reply="True" expression="True">
+        <name>BotonMenuIzquieda Comprobar existencia</name>
+        <distance>45</distance>
+        <ontrue>4332b734-0589-4a9f-b339-5f8e1f733cc0</ontrue>
+        <element id="2d86a8e9-e7fa-4ab3-85fb-ee8b029ae6d8" />
+        <condition>
+          <id>CheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>5</timeout>
+  </stage>
+  <stage stageid="19b41d4a-5ea2-4b0d-b783-1f86728dc216" name="Tiempo de espera - EsperarVentanaAplicaciones" type="WaitEnd">
+    <subsheetid>eb22872c-066f-48fb-800a-1078a0400385</subsheetid>
+    <loginhibit />
+    <display x="-15" y="-45" w="30" h="30" />
+    <onsuccess>b0733ca2-e941-4984-8580-5f491660522f</onsuccess>
+    <groupid>63ad9a47-3ac2-4ed1-acc3-d25f603624aa</groupid>
+  </stage>
+  <stage stageid="72d459a8-a6bf-4f22-b226-252cce1a1e3f" name="EsperarVentanaAplicaciones" type="WaitStart">
+    <subsheetid>eb22872c-066f-48fb-800a-1078a0400385</subsheetid>
+    <loginhibit />
+    <display x="-15" y="-165" w="30" h="30" />
+    <groupid>63ad9a47-3ac2-4ed1-acc3-d25f603624aa</groupid>
+    <choices>
+      <choice reply="True" expression="True">
+        <name>AplicacionGestionEstudiante Comprobar existencia</name>
+        <distance>45</distance>
+        <ontrue>b28e8255-8f48-4ae2-ac4f-efcac7996839</ontrue>
+        <element id="fccd1c41-946b-42e8-8251-35a601d66487" />
+        <condition>
+          <id>CheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>5</timeout>
+  </stage>
+  <stage stageid="95fdee38-f0e7-4a38-8c87-71d3ad664491" name="Tiempo de espera2" type="WaitEnd">
+    <subsheetid>eb22872c-066f-48fb-800a-1078a0400385</subsheetid>
+    <loginhibit />
+    <display x="240" y="15" w="30" h="30" />
+    <onsuccess>df9d1b97-794a-4fe1-a2cc-dc6a303ad786</onsuccess>
+    <groupid>354f99f9-fb4b-4750-a386-1894806edf60</groupid>
+  </stage>
+  <stage stageid="e6787583-612e-4900-a8fa-93cd4b5b7f2b" name="Esperar2" type="WaitStart">
+    <subsheetid>eb22872c-066f-48fb-800a-1078a0400385</subsheetid>
+    <loginhibit />
+    <display x="240" y="-120" w="30" h="30" />
+    <groupid>354f99f9-fb4b-4750-a386-1894806edf60</groupid>
+    <choices>
+      <choice reply="True" expression="True">
+        <name>ValidacionVistaGestionEstudiantes Comprobar existencia</name>
+        <distance>60</distance>
+        <ontrue>850db151-4cc1-4c28-b592-ab6a6df882e0</ontrue>
+        <element id="300731e3-f67c-4cd6-acb6-df68f6485354" />
+        <condition>
+          <id>CheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>5</timeout>
+  </stage>
+  <stage stageid="b0733ca2-e941-4984-8580-5f491660522f" name="ClickGestionEstudiantes" type="Navigate">
+    <subsheetid>eb22872c-066f-48fb-800a-1078a0400385</subsheetid>
+    <loginhibit />
+    <display x="120" y="-45" />
+    <onsuccess>b28e8255-8f48-4ae2-ac4f-efcac7996839</onsuccess>
+    <step>
+      <element id="fc651a28-1b4e-4f1f-bb5d-f5e9aaea2d24" />
+      <action>
+        <id>UIAButtonPress</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="850db151-4cc1-4c28-b592-ab6a6df882e0" name="Gestion_Estudiante" type="SubSheet">
+    <subsheetid>eb22872c-066f-48fb-800a-1078a0400385</subsheetid>
+    <loginhibit />
+    <display x="345" y="-60" />
+    <onsuccess>df9d1b97-794a-4fe1-a2cc-dc6a303ad786</onsuccess>
+    <processid>4ae117db-c6e7-4594-a181-39a806c5599c</processid>
+  </stage>
+  <stage stageid="175c288e-2d05-415a-a10b-cb87f0c5627d" name="NavegarMenuIzquierdaGestion" type="Navigate">
+    <subsheetid>4ae117db-c6e7-4594-a181-39a806c5599c</subsheetid>
+    <loginhibit />
+    <display x="-315" y="30" />
+    <onsuccess>20e2e503-e528-47f7-8144-ec31fa20b2d1</onsuccess>
+    <step>
+      <element id="2d86a8e9-e7fa-4ab3-85fb-ee8b029ae6d8" />
+      <action>
+        <id>UIAButtonPress</id>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="20e2e503-e528-47f7-8144-ec31fa20b2d1" name="OpcionSolicitud" type="Navigate">
+    <subsheetid>4ae117db-c6e7-4594-a181-39a806c5599c</subsheetid>
+    <loginhibit />
+    <display x="-120" y="30" />
+    <onsuccess>d3380ad9-9f9e-4486-a408-563805cde833</onsuccess>
+    <step>
+      <element id="bc45d935-abab-4865-b77c-fc4bfd771845" />
+      <action>
+        <id>UIAClickCentre</id>
+        <arguments>
+          <argument>
+            <id>newtext</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="d0921da1-21aa-4468-8d09-463018f0f67c" name="ClickServiciosSolicitudes" type="Navigate">
+    <subsheetid>4ae117db-c6e7-4594-a181-39a806c5599c</subsheetid>
+    <loginhibit />
+    <display x="-135" y="105" />
+    <onsuccess>6edf463d-3d1e-43a5-9f8e-8bf69d81fd9d</onsuccess>
+    <step>
+      <element id="3611023a-e872-4c81-87c7-3493440d8c42" />
+      <action>
+        <id>UIAClickCentre</id>
+        <arguments>
+          <argument>
+            <id>newtext</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="ac1f6794-70ed-49b2-8054-45cefdab4e2b" name="ClickIconoSolicitudes" type="Navigate">
+    <subsheetid>4ae117db-c6e7-4594-a181-39a806c5599c</subsheetid>
+    <loginhibit />
+    <display x="120" y="150" />
+    <onsuccess>6edf463d-3d1e-43a5-9f8e-8bf69d81fd9d</onsuccess>
+    <step>
+      <element id="2bb45a02-873f-48a5-8d9f-18e2d54ed9ca" />
+      <action>
+        <id>UIAClickCentre</id>
+        <arguments>
+          <argument>
+            <id>newtext</id>
+            <value>
+            </value>
+          </argument>
+        </arguments>
+      </action>
+    </step>
+  </stage>
+  <stage stageid="2643f899-2474-4f54-a28f-565c51e88160" name="Tiempo de espera - EsperarVentanaSolicitudes" type="WaitEnd">
+    <subsheetid>4ae117db-c6e7-4594-a181-39a806c5599c</subsheetid>
+    <loginhibit />
+    <display x="15" y="150" w="30" h="30" />
+    <onsuccess>ac1f6794-70ed-49b2-8054-45cefdab4e2b</onsuccess>
+    <groupid>0fac0854-36d6-4676-99ca-932030b18bd8</groupid>
+  </stage>
+  <stage stageid="d3380ad9-9f9e-4486-a408-563805cde833" name="EsperarVentanaSolicitudes" type="WaitStart">
+    <subsheetid>4ae117db-c6e7-4594-a181-39a806c5599c</subsheetid>
+    <loginhibit />
+    <display x="15" y="30" w="30" h="30" />
+    <groupid>0fac0854-36d6-4676-99ca-932030b18bd8</groupid>
+    <choices>
+      <choice reply="True" expression="True">
+        <name>ServicioSolicitudes Comprobar existencia</name>
+        <distance>75</distance>
+        <ontrue>d0921da1-21aa-4468-8d09-463018f0f67c</ontrue>
+        <element id="3611023a-e872-4c81-87c7-3493440d8c42" />
+        <condition>
+          <id>CheckExists</id>
+        </condition>
+        <comparetype>Equal</comparetype>
+      </choice>
+    </choices>
+    <timeout>5</timeout>
+  </stage>
+</process>
